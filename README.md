@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeyanthin20
-- 👀 I’m interested in Data Scients 
+- 👀 I’m interested in Data Analystics
 - 🌱 I’m currently learning Data Science and statistics
 - 📫 How to reach me jeyanthin20@gmail.com
 
